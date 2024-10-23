@@ -1,0 +1,21 @@
+
+#*# <---------------------- SAVE_CONFIG ---------------------->
+#*# DO NOT EDIT THIS BLOCK OR BELOW. The contents are auto-generated.
+#*#
+#*# [extruder]
+#*# control = pid
+#*# pid_kp = 22.176
+#*# pid_ki = 1.998
+#*# pid_kd = 61.538
+#*#
+#*# [heater_bed]
+#*# control = pid
+#*# pid_kp = 64.838
+#*# pid_ki = 0.834
+#*# pid_kd = 1259.478
+#*#
+#*# [input_shaper]
+#*# shaper_type_x = 2hump_ei
+#*# shaper_freq_x = 52.6
+#*# shaper_type_y = zv
+#*# shaper_freq_y = 61.8
